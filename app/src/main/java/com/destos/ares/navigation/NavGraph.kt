@@ -25,6 +25,6 @@ fun AppNavigation() {
         composable(Routes.SUMA) { SumaScreen(navController) }
         composable(Routes.DAMITMA) { DamitmaScreen(navController) }
         composable(Routes.SEYRELTME) { SeyreltmeScreen(navController) }
-        composable(Routes.ENERJI) { EnerjiScreen(navController) }
+        
     }
 }
